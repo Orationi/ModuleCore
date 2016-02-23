@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orationi.ModuleCore", "Orationi.ModuleCore\Orationi.ModuleCore.csproj", "{D1164F66-A4B0-435A-92C8-886B1D68ED99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orationi.ModuleCore.Tests", "Orationi.ModuleCore.Tests\Orationi.ModuleCore.Tests.csproj", "{23AD21D1-94AB-4A72-B1A2-4A7D9E49D601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1164F66-A4B0-435A-92C8-886B1D68ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1164F66-A4B0-435A-92C8-886B1D68ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1164F66-A4B0-435A-92C8-886B1D68ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1164F66-A4B0-435A-92C8-886B1D68ED99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AD21D1-94AB-4A72-B1A2-4A7D9E49D601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AD21D1-94AB-4A72-B1A2-4A7D9E49D601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AD21D1-94AB-4A72-B1A2-4A7D9E49D601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AD21D1-94AB-4A72-B1A2-4A7D9E49D601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
